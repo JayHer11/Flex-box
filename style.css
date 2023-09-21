@@ -1,0 +1,37 @@
+.child1{
+    background-color:yellow;
+    border: 2px solid black;
+    width: 200px;
+height:20px;
+}
+.child2 {
+    background-color: yellow;
+    border: 2px solid black;
+    width: 200px;
+    height: 20px;
+    order:-1;
+}
+.child3 {
+    background-color: yellow;
+    border: 2px solid black;
+    width: 200px;
+    height: 20px;
+}
+.child4 {
+    background-color: yellow;
+    border: 2px solid black;
+    width: 200px;
+    height: 20px;
+}
+.child5 {
+    background-color: yellow;
+    border: 2px solid black;
+    width: 200px;
+    height: 20px;
+}
+.parent{
+    border: 2px solid red;
+    height:200px;
+    flex-direction:row;
+    display:flex;
+}
